@@ -8,6 +8,11 @@ Follow the instructions, then rebuild and run the solution in Visual Studios
 	- Copy glut32.dll to your Windows/SysWOW64 folder
 
 
+How to Run:
+
+Copy paste the 6 HMP Files in the TerrianLOD into the Release Folder then run the TerrianLOD application.
+
+
 Controls:
 
 Click and Drag with the mouse to turn
